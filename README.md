@@ -27,7 +27,7 @@ Follow the steps described in the MASHUP-APP-mit-NODE.js repository:
 
 run sudo nodemon www.js  or sudo npm start to start the backend services
 
-You may stop it by pressing CTRL + C
+You may stop it by pressing CTRL +  C
 
  
 
