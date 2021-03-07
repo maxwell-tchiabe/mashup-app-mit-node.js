@@ -18,7 +18,7 @@ The following software has to be installed on your computer:
 ## Get the code base
 Clone the MASHUP-APP-mit-NODE.js repository :
 
-git@git.thm.de:lmtn52/mashup-app-mit-node.js.git
+https://github.com/maxwell-tchiabe/mashup-app-mit-node.js.git
 
 
 
