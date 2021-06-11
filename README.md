@@ -41,7 +41,7 @@ You could also run it whit sudo node www.js
 
 
 # Start the Frontend (Webstorm)
-If you are using Webstorm, open the frag.jetzt repository in Webstorm now. Apply the installation of npm packages. When it is finished, you see multiple run configuration in the top bar. 
+If you are using Webstorm, open the MASHUP-APP-mit-NODE.js  repository in Webstorm now. Apply the installation of npm packages. When it is finished, you see multiple run configuration in the top bar. 
 
 # Start the Frontend (CLI)
 If you are not using Webstorm, you may start your Frontend via Terminal. Inside of the mashup-app-mit-node.js repository, run sudo npm start.
